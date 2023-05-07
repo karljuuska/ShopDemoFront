@@ -1,6 +1,6 @@
 # ShopDemoFront
 
-Simple React Native app for ShopDemo
+Simple React Native app for shop
 
 
 1. npm install
